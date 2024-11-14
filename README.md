@@ -5,9 +5,7 @@
   - [Vulnerability Management Projects](https://github.com/)
 
 - <b>IT Support Engineer Consultancy (Ticketing Management, Active Directory, Complex Troubleshooting Steps, Hardware Components, Warranties, Replacements, Cloud Recoveries, VPNs, Internet Service Provider, Technical Probing Questions)</b>
-  - [IT & Information Tecnology Consultancy](https://
-github.com
-/JoshuaOrtizR/IT-SupportEngineer/tree/main/IT%20Support%20Specialist%20Program)
+  - [IT & Information Tecnology Consultancy](https://github.com/JoshuaOrtizR/IT-SupportEngineer/tree/main/IT%20Support%20Specialist%20Program)
 
 
 <h2> 🤳 Connect with me:</h2>
